@@ -1,0 +1,99 @@
+body{
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(229, 230, 227);
+}
+
+.x{
+    background-color: white;
+    width: 350px;
+    height: 700px;
+    border: 1px solid darkgrey;
+    margin:5% 40%;
+}
+img{
+    width: 92%;
+    height: 14%;
+    padding-left: 15px;
+    background-image: linear-gradient(rgb(229, 230, 227));
+
+}
+p{
+    text-align: center;
+    margin-top: 7px;
+    margin-left: 45px;
+    margin-right: 45px;
+    color: rgb(112, 134, 112);
+
+}
+.center{
+    text-align: center;
+
+}
+.link{
+    text-decoration: none;
+    border: 1px solid blue;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    padding: 0px 30px;
+    font-size: 20px;
+}
+.link:hover{
+    background-color: seagreen;
+    border: 1px solid seagreen;
+    
+}
+form{
+    position: relative;
+    left:57px;
+    
+
+}
+.box{
+    width: 235px;
+    margin-bottom: 3px;
+    border: 1px solid darkolivegreen;
+    border-radius: 3px;
+    background-color: rgba(250, 254, 255, 0.733);
+    text-align: justify;
+    padding: 13px;
+
+}
+.next{
+    width: 240px;
+    padding: 5px;
+    margin-top: 15px;
+    color:white;
+    font-size: 20px;
+    background-color: rgb(91, 91, 202);
+    border: 1px solid darkolivegreen;
+    border-radius: 3px;
+}
+.trams{
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 45px;
+    margin-right: 45px;
+    color: rgb(112, 134, 112);
+    font-size: 15px;
+
+}
+.log
+{
+    border: 1px solid darkgrey;
+    padding: 20px;
+    margin-left: 600px;
+    margin-right: 550px;
+    margin-bottom: 5%;
+    margin-top: -4%;
+    color: black;
+    background-color: white;
+}
+footer{
+    text-align: end;
+    color: rgb(89, 105, 89);
+    padding-bottom: 1%;
+    
+    
+
+}
